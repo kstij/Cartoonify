@@ -5,3 +5,10 @@
 
 Even the basics of image processing if done properly can be handy which otherwise would require a machine learning model.This project is one of such inspiration which **cartoonizes** images and videos using only core **opencv filters** and functions.It also uses K-means clustering algorithm to compress the image. This clustering gives it the basic cartoonish tinge it requires.
 
+### Prerequisites
+
+```
+scipy 
+numpy 
+cv2
+
